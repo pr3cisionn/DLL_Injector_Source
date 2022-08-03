@@ -30,8 +30,8 @@ DWORD GetProcID(const char* procName)
 
 int main()
 {
-    const char* dllPath = "C:\\ProjectRencify.dll";
-    const char* procName = "Phasmophobia.exe";
+    const char* dllPath = "DLL_PATH"; //Path to your dll
+    const char* procName = "Phasmophobia.exe"; //Process Name 
     DWORD procId = 0;
 
     while (!procId)
