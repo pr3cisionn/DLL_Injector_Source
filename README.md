@@ -1,3 +1,3 @@
 # Open Source DLL Injector
 
-I made this so I can troll more easily on phasmophobia
+If you want to use this download the "ProjectRencify" DLL and put it in your C Drive, open Phasmophobia then open the injector.
