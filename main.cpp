@@ -31,7 +31,7 @@ DWORD GetProcID(const char* procName)
 int main()
 {
     const char* dllPath = "DLL_PATH"; //Path to your dll
-    const char* procName = "Phasmophobia.exe"; //Process Name 
+    const char* procName = "Game.exe"; //Process Name 
     DWORD procId = 0;
 
     while (!procId)
